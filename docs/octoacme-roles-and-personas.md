@@ -354,7 +354,7 @@ On smaller teams, one person may hold multiple personas (for example, a Develope
 - Teams should periodically confirm role coverage to ensure no responsibility is silently dropped when roles are combined.
 
 ## Role Participation Across the Project Lifecycle
-The table below maps when each persona is typically most active. "Lead" indicates primary ownership for that phase; "Support" indicates active participation without primary ownership.
+The table below maps when each persona is typically most active. "Lead" indicates primary ownership for that phase; "Support" indicates active participation without primary ownership; "—" indicates the persona is not typically involved in that phase.
 
 | Persona | Initiation | Planning | Execution | Release | Retrospective |
 |---|---|---|---|---|---|
